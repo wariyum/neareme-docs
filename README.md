@@ -1,4 +1,4 @@
-# Open Source E-Commerce platform - Neareme documentation
+# Open Source E-Commerce platform - NearMe documentation
 Reliable E-Commerce platform on AWS, Self hostable and SaaS version available for small business.
 - No vendor lock-in.
 - No hidden fees.
