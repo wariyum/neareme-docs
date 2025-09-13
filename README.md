@@ -5,6 +5,8 @@ Reliable E-Commerce platform on AWS, Self hostable and SaaS version available fo
 - Own your e-commerce platform.
 - AI features for retailing domain
 
+Feature Documentation: https://doc.wariyum.com/docs/nearme/getting-started/
+
 ### **E-commerce Platform: Built on AWS & Serverless**
 
 -----
