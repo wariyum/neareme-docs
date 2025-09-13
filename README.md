@@ -1,8 +1,9 @@
 # neareme-docs
 Reliable E-Commerce platform on AWS, Self hostable and SaaS version available for small business.
-- No vendoer lock-in
-- No extra transaction fees
-- Own your e-commerce platform Technically
+- No vendor lock-in.
+- No hidden fees.
+- Own your e-commerce platform.
+- AI features for retailing domain
 
 ### **E-commerce Platform: Built on AWS & Serverless**
 
